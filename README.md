@@ -11,4 +11,4 @@ The workspace contains two folders by default, where:
 
 ## Contact me
 
-Nếu có bất kỳ bổ sung gì (và mình rất rất mong mọi người làm vậy), hãy tạp một pull request cho mình hoặc liên hệ mình qua mail ``daoanhthanh@outlook.com`` hoặc  [facebook](https://www.facebook.com/etcdd/).
+Nếu có bất kỳ bổ sung gì (và mình rất rất mong mọi người làm vậy), hãy tạp một pull request cho mình hoặc liên hệ mình qua mail ``daoanhthanh@outlook.com`` hoặc  [facebook](https://www.facebook.com/daoanhthanh29/).
